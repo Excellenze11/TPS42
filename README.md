@@ -1,4 +1,4 @@
-# TPS42
+# TPS42 
 
 TPS42 is a 42/36 keys ergonomic split keyboard. The outer pinky columns can be broken off. The main goal for desing it was to have a low profile split keyboard with an integrated TrackPoint module
 
